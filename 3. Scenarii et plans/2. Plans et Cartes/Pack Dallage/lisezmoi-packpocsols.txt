@@ -1,0 +1,39 @@
+UTILISATION DES DALLES DANS ROLL20
+
+Voici un pack de dalles de sol d'environnements variés pour faire vos maps dans ROLL20
+
+Notez qu'il existe déjà des dalles dans la galerie commune ROLL20, mais :
+- Elles ne sont pas toujours carrées ou optimisées pour les carrés
+- Elles ne sont pas disponibles en plusieurs tailles
+- Elles ne sont pas forcément assorties
+- Mais plus important... Elles peuvent disparaître de la galerie commune sans prévenir !
+
+Alors c'est simple, pour faire votre propre galerie de dalles :
+- Dans un scénario quelconque, loggé en tant que GM Ouvrez l'onglet "art library"
+- Cliquez sur l'étoile "your art library"
+- Cliquez sur "upload"
+- Sélectionnez les dalles qui vous intéressent dans le pack et glissez-les dans cette fenêtre
+- Après chargement, allez sur "Your library" et ajoutez éventuellement des mots-clefs pour les retrouver facilement
+
+FAIRE UNE MAP A PARTIR DE DALLES
+
+Hyper simple, hyper rapide...
+- Dans la barre des maps "create new page"
+- Page size : choisissez votre taille de map
+- Scale : hyper important... 1 unit = 1 m ou 2 m si vous faites de l'intérieur
+- Grid : enabled, 1 unit
+- Choisissez un fond noir
+Ensuite en mode édition :
+- Sélectionnez bien le calque "map & background"
+- Ouvrez art library et cherchez "dalle" ou "parquet" selon l'environnemnet désiré
+- Glissez les dalles de votre choix sur la map !
+
+Comme vous êtes en vue du dessus, vous n'avez normalement pas besoin de murs.
+Les dalles du pack POC sont toutes carrées, vous pouvez donc les placer facilement et les mettre à l'échelle voulue en tirant les poignées.
+Elles vont s'aligner automatiquement sur la grille.
+Lorsque vos couloirs et vos salles sont faits, ajoutez éventuellement des meubles ou du décor de la galerie Roll20.
+
+Dans le pack se trouvent deux exemples de maps très simples réalisées par mes soins à l'aide de ces dalles.
+
+ECLAIRAGE DYNAMIQUE
+L'exemple "dynamic" montre comment ajouter rapidement les lignes autour des dalles afin que celles-ci agissent comme des murs et bloquent la lumière. De cette façon les tokens de vos joueurs ne verront pas la pièce à côté si vous utilisez l'éclairage dynamique (nécessite un compte GM payant).
