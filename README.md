@@ -1,7 +1,8 @@
 # Le Donjon de Naheulbeuk
-![Le Donjon de NaheulBeuk](http://www.naheulbeuk.com/pix/site-titre-jdr.gif)
+<p align="center">
+  <a href="http://www.naheulbeuk.com/" alt="Le Donjon de NaheulBeuk"><img src="http://www.naheulbeuk.com/pix/site-titre-jdr.gif" alt="Le Donjon de NaheulBeuk"/></a>
+</p>
 
-[Le Donjon de NaheulBeuk](http://www.naheulbeuk.com/)
 # PackBeuk
 
 Bienvenue sur ce PackBeuk, afin de le DL vous pouvez :
@@ -16,7 +17,7 @@ C'est la compilation des documents nessessaire pour jouer au JDR Papier "Le Donj
 * Des contributions (differentes aides à la creation des personnages, etc...)
 * Des polices d'écritures
 
-![Ilustration](http://www.penofchaos.com/warham/bd/images/EcranT14-reduc.jpg)
+->![Ilustration](http://www.penofchaos.com/warham/bd/images/EcranT14-reduc.jpg)<-
 
 ## Merci à Pen of Chaos
 Pour avoir créé l'univers de Naheulbeuk avec ce superbe jdr papier, vous pouvez retrouver tout les concernants sur leur [site officiel](http://www.naheulbeuk.com/)
