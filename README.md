@@ -15,6 +15,7 @@ C'est la compilation des documents nessessaire pour jouer au JDR Papier "Le Donj
 * Les Scenario et plans, officiels et amateurs (Probablement la section la plus incomplete)
 * Des contributions (differentes aides à la creation des personnages, etc...)
 * Des polices d'écritures
+![Ilustration](http://www.penofchaos.com/warham/bd/images/EcranT14-reduc.jpg)
 
 ## Merci à Pen of Chaos
 Pour avoir créé l'univers de Naheulbeuk avec ce superbe jdr papier, vous pouvez retrouver tout les concernants sur leur [site officiel](http://www.naheulbeuk.com/)
@@ -27,3 +28,5 @@ J'ai récuperé ce pack il y a longtemps, je ne sais plus quand, et la personne 
 je récupère donc ce flambeau, j'essairai de tenir ce pack à jours.
 
 Si vous trouvez des choses manquantes, des oublis de mise à jours, n'hesitez pas à m'en faire part afin que je les corriges, faites m'en part dans la rubrique [issues](https://github.com/purexo/PackBeuk/issues), voir à me faire des "pull request"
+
+![Illustration](http://i71.servimg.com/u/f71/13/21/01/74/fondec10.jpg)
