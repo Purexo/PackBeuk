@@ -5,8 +5,8 @@
 # PackBeuk
 
 Bienvenue sur ce PackBeuk, afin de le DL vous pouvez :
-* cloner ce depot via git sur votre PC : git clone https://github.com/purexo/PackBeuk.git
-* telecharger l'archive du pack : [PackBeuk](https://github.com/purexo/PackBeuk/archive/master.zip)
+* ![git-icon](http://icons.iconarchive.com/icons/designbolts/handstitch-social/24/Github-icon.png) cloner ce depot via git sur votre PC : git clone https://github.com/purexo/PackBeuk.git
+* ![zip-icon](http://icons.iconarchive.com/icons/kxmylo/simple/24/zip-icon.png)telecharger l'archive du pack : [PackBeuk](https://github.com/purexo/PackBeuk/archive/master.zip)
 
 ## Qu'est-ce que le PackBeuk ?
 C'est la compilation des documents nessessaire pour jouer au JDR Papier "Le Donjon de Naheulbeuk", il vise a etre le plus exhaustif possible et contient : 
