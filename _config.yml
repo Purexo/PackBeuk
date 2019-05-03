@@ -1,0 +1,8 @@
+title: Packbeuk
+description: Naheulbeuk, PackBeuk, Nain, elfe, humain, ogre, barbare, magicienne, le donjon de Naheulbeuk
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
