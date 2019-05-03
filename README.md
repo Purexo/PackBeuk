@@ -24,6 +24,11 @@ C'est la compilation des documents nessessaire pour jouer au JDR Papier "Le Donj
 ## Merci à Pen of Chaos
 Pour avoir créé l'univers de Naheulbeuk avec ce superbe jdr papier, vous pouvez retrouver tout les concernants sur leur [site officiel](http://www.naheulbeuk.com/)
 
+## Liens pratiques
+- [Générateur de perso / bibliothèque de document rapide d'accès](https://nnsprod.com/naheulbeuk/index.php)
+- [Love Gameplay](https://purexo.github.io/love-roleplay-gameplay/)
+- [Générateur d'excuse](https://purexo.github.io/naheulbeuk-generateur-excuses/)
+
 ## Nota Benne
 Il manque probablement des choses dans ce pack (des mise à jours).
 

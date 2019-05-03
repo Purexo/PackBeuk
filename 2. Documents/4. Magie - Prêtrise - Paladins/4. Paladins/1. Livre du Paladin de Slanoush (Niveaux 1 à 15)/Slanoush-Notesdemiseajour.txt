@@ -1,0 +1,48 @@
+
+AJOUT AU LIVRE DE BASE
+Bonus permanent du paladin
+- Bonus AT/PRD et +1 PI contre DLUL et TZINNTCH
+- Clarification de la restriction d'armure
+
+Oeil de Slanoush
+- Épreuve nécessaire seulement jusqu'au niveau 10
+
+Apposition des mains
+- Épreuve nécessaire seulement jusqu'au niveau 8
+
+Secrets troublants de Slanoush
+- Réduction de 1 au temps d'incantation
+
+Armure de Slanoush
+- On précise que le paladin peut l'utiliser également
+
+Voile mystique de Slanoush
+- Précisions concernant l'aire d'effet
+
+Outrage des tortionnaires
+- ajout d'un malus à la RES MAG
+- réduction de 1 au temps d'incantation
+- description clarifiée
+- Suppression de la restriction concernant les animaux
+
+Arrachement de cœur
+- passe au niveau 13
+- ajout d'un malus à la RES MAG
+- réduction de 1 au temps d'incantation
+- ajout d'une restriction concernant les animaux
+
+Nouveaux prodiges :
+Niveau 1 : Punition méritée
+Niveau 2 : Confession expiatrice
+Niveau 3 : Objet du culte
+Niveau 4 : Secret de fabrication
+Niveau 5 : Secrète illusion
+Niveau 6 : Conviction surnaturelle
+Niveau 7 : Vigueur de Slanoush
+Niveau 8 : Serrure de Nihilia
+Niveau 9 : Tentapiège de Klaatuu
+Niveau 10 : Aura de Xalvalor
+Niveau 11 : krakening de Blavine
+Niveau 12 : Aura contre-théurgique
+Niveau 14 : Serpentacules stupéfiants
+Niveau 15 : Foudre du plan de Glazoo
